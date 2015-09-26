@@ -1,0 +1,10 @@
+
+# Creative Tabs
+itemGroup.GozzyCraft=GozzyCraft
+
+# Items
+item.gozzy_head.name=Gozzy's Head
+
+# Blocks
+tile.BlockCoordTransporter.name=Coord Transporter
+
